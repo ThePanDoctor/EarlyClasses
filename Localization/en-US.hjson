@@ -1,0 +1,11 @@
+Mods:{
+    EarlyClasses:{
+        ItemName:{
+            FlinxFurGreaves:"Flinx Fur Greaves"
+        }
+        
+        ItemTooltip:{
+            FlinxFurGreaver:"Increases movement speed by 10%"
+        }
+    }
+}
