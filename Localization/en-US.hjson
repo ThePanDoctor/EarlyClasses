@@ -2,10 +2,12 @@ Mods:{
     EarlyClasses:{
         ItemName:{
             FlinxFurGreaves:"Flinx Fur Greaves"
+            FlinxFurHeadpiece:"Flinx Fur Headpiece"
         }
         
         ItemTooltip:{
-            FlinxFurGreaver:"Increases movement speed by 10%"
+            FlinxFurGreaves:"Increases movement speed by 10%"
+            FlinxFurHeadpiece:"Increases whip speed by 5%"
         }
     }
 }
