@@ -1,1 +1,32 @@
-Better Pre-Boss Classes is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+*** Index ***
+"+": Added stuff
+"=": Changed stuff
+
+*** Added Stuff ***
+* Mage *
++ Magical Greaves: 2 armor, gives + 10% magic damage and + 20 mana
+Craftet with 6 gold/platinum bars, 5 silk and 1 magic crystal @ an anvil
+
++ Wizard Hat recipe
+8 gold/platinum bars, 5 silk and 1 mana crystal @ an anvil
+
+= Mage set: same bonuses as vanilla, now requires Magical Greaves
+
+* Summoner *
++ Flinx Fur Greaves: 2 armor, gives 10% movement speed and minion damage bonus.
+Crafted with 6 gold/platinum bars, 5 silk and 3 flinx fur @ an anvil
+
++ Flinx Fur Headpiece: 1 armor, 5% whip speed bonus
+Crafted with 3 gold/platinum bars, 2 silk and 1 flinx fur @ an anvil
+(no texture for now, acts like familiar hair)
+
++ Flinx Fur Set: Flinx Fur Headpiece, Coat and Greaves. 
+Gives immunity to Chilled and Frozen and +10% whip speed
+
+*** Changes ***
++ Gold and platinum armor gives +10% melee damage, becoming the pre-boss melee set
+
+*** To-do ***
++ Make textures for the flinx fur headpiece
+
++ Learn how to do pixel art to make the flinx fur greaves less ugly
