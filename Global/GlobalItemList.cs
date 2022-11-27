@@ -17,17 +17,17 @@ namespace EarlyClasses.Global
 
 		public override void AddRecipes() 
 		{
-			Recipe.Create(ItemID.FlinxFurCoat, 1)
+			Recipe.Create(ItemID.WizardHat, 1)
 			.AddIngredient(ItemID.GoldBar, 8)
-			.AddIngredient(ItemID.FlinxFur, 3)
+			.AddIngredient(ItemID.ManaCrystal, 1)
 			.AddIngredient(ItemID.Silk, 5)
 			.AddTile(TileID.Anvils)
 			.Register();
-			// Adds cheaper recipes to the Flinx Fur Coat
+			// Adds recipes for the Wizard Hat
 			// Above uses gold, below uses platinum
-			Recipe.Create(ItemID.FlinxFurCoat, 1)
+			Recipe.Create(ItemID.WizardHat, 1)
 			.AddIngredient(ItemID.PlatinumBar, 8)
-			.AddIngredient(ItemID.FlinxFur, 3)
+			.AddIngredient(ItemID.ManaCrystal, 1)
 			.AddIngredient(ItemID.Silk, 5)
 			.AddTile(TileID.Anvils)
 			.Register();
