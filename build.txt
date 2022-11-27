@@ -1,3 +1,3 @@
 displayName = Better Pre-Boss Classes
 author = The Pan Doctor
-version = 0.1
+version = 0.2
