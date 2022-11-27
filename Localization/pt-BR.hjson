@@ -3,11 +3,13 @@ Mods:{
         ItemName:{
             FlinxFurGreaves:"Botas de Pelo de Flinx"
             FlinxFurHeadpiece:"Capacete de Pelo de Flinx"
+            MagicalGreaves:"Botas Mágicas"
         }
         
         ItemTooltip:{
-            FlinxFurGreaves:"Aumenta velocidade de movimento em 10%"
+            FlinxFurGreaves:"Aumenta velocidade de movimento e dano de invocação em 10%"
             FlinxFurHeadpiece:"Aumenta velocidade de ataque dos chicotes em 5%"
+            MagicalGreaves:"Aumenta dano mágico em 10%\nAumenta mana máxima em 20"
         }
 
         
