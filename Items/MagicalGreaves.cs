@@ -28,9 +28,6 @@ namespace EarlyClasses.Items
 		{
 			// Increases max mana by 20
 			player.statManaMax2 += 20;
-
-			// Increase magic damage by 10%
-			player.GetDamage(DamageClass.Magic) += 0.1f;
 		}
 
 		public override void AddRecipes()
