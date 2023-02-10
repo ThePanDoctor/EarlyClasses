@@ -9,7 +9,7 @@ Mods:{
         ItemTooltip:{
             FlinxFurGreaves:"Increases movement speed and summon damage by 10%"
             FlinxFurHeadpiece:"Increases whip speed by 5%"
-            MagicalGreaves:"Increases magic damage by 10%\nIncreases max mana by 20"
+            MagicalGreaves:"Increases max mana by 20"
         }
     }
 }
